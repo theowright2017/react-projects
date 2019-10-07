@@ -1,3 +1,41 @@
+NOTES*******
+
+css class names can be changed using state
+e.g
+<p className={this.state.active ? 'active' : ''}
+
+////////
+
+use ternary and binary state to alter a functions output through e.g onClick
+this.props.sumPrice(this.state.active ? -this.props.price : this.props.price)
+when state changes to true or false, amount will add or subtract
+
+/////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
