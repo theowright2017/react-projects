@@ -1,9 +1,13 @@
 *****
   ensure that components are rendered within correct divs
 
+  ////
+
   container div ideally remains in app.js and components are rendered within it
 
   //////
+
+
 
   all css is from bootstrap, https://startbootstrap.com/
 
