@@ -1,8 +1,7 @@
 NOTES*******
 
 css class names can be changed using state
-e.g
-<p className={this.state.active ? 'active' : ''}
+e.g <p className={this.state.active ? 'active' : ''}
 
 ////////
 
