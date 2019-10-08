@@ -1,3 +1,46 @@
+NOTES **********
+
+figure out how to create a Link within a Route
+threepointone within three
+
+if rendering app as component in router, this will be present in all other components
+
+/////////
+
+in react-router v4 and above, has multiple components instead of just 'Router'
+<BrowserRouter> , <HashRouter> etc
+
+////////
+
+only one child element, i.e needs to be wrapped in <div>
+
+////////
+
+instead of using { browserhistory } which is now deprecated??, each of above components automatically provides a history object
+
+////////
+
+use =" * "    as path name to show generic page when route name does not match any existing routes ????????
+this has changed from v4 and above??
+
+////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
