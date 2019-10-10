@@ -8,7 +8,7 @@ add and remove class using JS:
 ..    let lout = document.getElementById('logout');
     lout.classList.remove('hide');
 
-    ///////////////
+///////////////
 
 
 
